@@ -82,9 +82,9 @@ docker run -p 8000:8000 veefy-backend
 ```
 
 
-# ======================================== #
-## Veefy Backend - Wiki                    #
-# =======================================+ #
+## =================== ##
+## Veefy Backend - ** Wiki ** ##
+## ==================== ##
 
 This is a wiki to demonstrate the backend capabilities during your presentation.
 
