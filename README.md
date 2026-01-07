@@ -81,8 +81,8 @@ docker build -t veefy-backend .
 docker run -p 8000:8000 veefy-backend
 ```
 
-## Veefy Backend - ** Wiki ** ##
-This is a wiki to demonstrate the backend capabilities during your presentation.
+## Veefy Backend - Wiki
+This is a wiki to demonstrate the backend capabilities features thet meets end-to-end requirements.
 
 ## Preparation
 1. **Clear Data**: Delete the `uploads/` folder contents (optional, to show fresh state).
