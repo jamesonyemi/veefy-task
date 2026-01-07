@@ -81,11 +81,7 @@ docker build -t veefy-backend .
 docker run -p 8000:8000 veefy-backend
 ```
 
-
-## =================== ##
 ## Veefy Backend - ** Wiki ** ##
-## ==================== ##
-
 This is a wiki to demonstrate the backend capabilities during your presentation.
 
 ## Preparation
