@@ -82,7 +82,7 @@ docker run -p 8000:8000 veefy-backend
 ```
 
 ## Veefy Backend - Wiki
-This is a wiki to demonstrate the backend capabilities features thet meets end-to-end requirements.
+This is a wiki to demonstrate the backend capabilities features that the meets end-to-end testing requirements.
 
 ## Preparation
 1. **Clear Data**: Delete the `uploads/` folder contents (optional, to show fresh state).
@@ -91,7 +91,7 @@ This is a wiki to demonstrate the backend capabilities features thet meets end-t
    uvicorn app.main:app --reload
    # Keep this terminal visible to show logs!
    ```
-3. **Open Postman** and create a new Collection named "Veefy Demo".
+3. **Open Postman** and create a new Collection named "Veefy Demo or any name of your choice".
 
 ---
 
