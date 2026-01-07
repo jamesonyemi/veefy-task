@@ -79,6 +79,7 @@ Build and run using Docker:
 ```bash
 docker build -t veefy-backend .
 docker run -p 8000:8000 veefy-backend
+```
 
 
 # ======================================== #
